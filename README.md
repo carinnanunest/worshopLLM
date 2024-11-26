@@ -1,6 +1,6 @@
 # Workshop Introdução à Grandes Modelos de Linguagem
 
-> Ambiente criado com material de apoio ao workshop
+> Ambiente criado como material de apoio ao workshop
 
 ## Tecnologias Utilizadas
 * LangChain
